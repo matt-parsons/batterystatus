@@ -1,0 +1,6 @@
+.tmp/
+_build/
+node_modules/
+*.zip
+_assets/
+.DS_Store
